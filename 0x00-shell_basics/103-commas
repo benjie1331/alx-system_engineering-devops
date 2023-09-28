@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -maxvp | tr -d '\n' 
+ls -m | tr -d '\n'
